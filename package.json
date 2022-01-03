@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EzraPlotkin/JS-Sandbox#readme",
   "dependencies": {
+    "axios": "^0.24.0",
     "express": "^4.17.2"
   }
 }
