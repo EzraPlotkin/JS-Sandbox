@@ -1,0 +1,22 @@
+{
+  "name": "js-sandbox",
+  "version": "1.0.0",
+  "description": "node sandbox project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzraPlotkin/JS-Sandbox.git"
+  },
+  "author": "Ezra Plotkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzraPlotkin/JS-Sandbox/issues"
+  },
+  "homepage": "https://github.com/EzraPlotkin/JS-Sandbox#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
